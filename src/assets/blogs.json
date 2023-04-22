@@ -1,0 +1,116 @@
+{
+  "blogs": [
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/reach-and-convert-new-audiences-with-ios-web-push-1.jpg",
+      "tags": ["top", "features & updates"],
+      "title": "Reach and Convert New Audiences with iOS Web Push",
+      "preview": "iOS Web Push is Live! Learn why and how to use this powerful new iPhone feature.",
+      "discription": "Mobile Safari web push is finally here! After years of anticipation and demand, Apple has at long last embraced modern web technology and launched support for web push on iOS and iPadOS 16.4+. Now, Apple joins Google Chrome and Android in enabling companies to communicate with their iPhone and iPad users in a mobile-first way.",
+      "time": 2
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/04/understanding-and-combatting-user-churn-1.jpg",
+      "tags": ["acquisition & retention"],
+      "title": "Understanding and Combating User Churn",
+      "preview": "It’s the number one reason that mobile apps struggle to grow and we’re going to show you how to proactively anticipate your users’ needs to overcome it.",
+      "discription": "User churn is a brutally candid reflection of customer satisfaction and a company’s ability to meet its audience’s expectations. If your mobile app suffers from stagnant revenue or simply can’t keep users around for more than a few weeks, it may be time to peer into that mirror and learn how to prevent user churn head-on.Below we’ve laid the groundwork for understanding, identifying, and learning how to prevent user churn. It’s the number one reason that mobile apps struggle to grow and we’re going to show you how to proactively anticipate your users’ needs to overcome it.What is User Churn?User churn occurs when a customer stop using your product or service. The term “user” typically refers to app users, whereas the phrase “customer churn” is relevant to a wider variety of industries and businesses. Apps use a metric known as user churn rate to quantify the number of users they are losing in a specific timeframe, most commonly by the month.User churn rates vary by industry, however, the consequences of a high churn rate have always been the same: crippled growth and stagnant revenue. The average app loses 77% of its daily active users (DAUs) within the first 3 days after installation.An easy way to think of user churn rate is as the opposite of your user retention rate.",
+      "time": 3
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/04/most-effective-player-retention-hacks-for-mobile-games.jpg",
+      "tags": ["technology"],
+      "title": "4 Most Effective Player Retention Hacks for Mobile Games",
+      "preview": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the...",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 1
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/04/what-does-mobile-first-mean.jpg",
+      "tags": ["multichannel"],
+      "title": "What Does Mobile-First Mean?",
+      "preview": "In the launching process of “Ready, Aim, Fire,” we’re honing in on that pivotal second step and exploring what it means to adopt a mobile-first approach for your business.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 4
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/guide-to-understanding-mobile-user-lifetime-value-ltv-2.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "Guide to Understanding Mobile User Lifetime Value (LTV)",
+      "preview": "If users are your app's lifeblood, calculating your LTV is a way to run bloodwork and uncover the value of your user base.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 6
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/what-is-a-pwa-3.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "Guide to Understanding Mobile User Lifetime Value (LTV)",
+      "preview": "If users are your app's lifeblood, calculating your LTV is a way to run bloodwork and uncover the value of your user base.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 6
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/guide-to-understanding-mobile-user-lifetime-value-ltv-2.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "Guide to Understanding Mobile User Lifetime Value (LTV)",
+      "preview": "If users are your app's lifeblood, calculating your LTV is a way to run bloodwork and uncover the value of your user base.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 6
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/12-examples-of-apps-using-live-activities-to-enrish-their-ux-1.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "12 Examples of Apps Using Live Activities to Enrich Their UX",
+      "preview": "Get inspired by these real-world examples of apps that have successfully implemented iOS Live Activities.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 1
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/what-is-a-pwa-3.jpg",
+      "tags": ["company culture"],
+      "title": "What is PWA",
+      "preview": "Learn how progressive web apps work and the unique benefits of launching a PWA.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 7
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2022/11/how-do-web-push-notifications-work-on-mobile-devices-1.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "How do Web Push Notifications Work on Mobile Devices?",
+      "preview": "Marketing for mobile users has never been easier or more important. Learn how web push notifications work so that you can use them to reach your customers.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 6
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/02/time-window-resuable-in-app-messages-and-channel-reach-stats-whats-new-in-journeys.jpg",
+      "tags": ["features & updates"],
+      "title": "Journeys Updates: Time Window, Reusable In-App Messages, and Channel Reach Stats",
+      "preview": "We're excited to announce new improvements to our Journeys messaging workflow tool.",
+      "discription": "Mobile Safari web push is finally here! After years of anticipation and demand, Apple has at long last embraced modern web technology and launched support for web push on iOS and iPadOS 16.4+. Now, Apple joins Google Chrome and Android in enabling companies to communicate with their iPhone and iPad users in a mobile-first way.",
+      "time": 2
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/02/2022-roundup-top-10-product-releases--3-.jpg",
+      "tags": ["features & updates"],
+      "title": "2022 Roundup: Top 10 Product Releases",
+      "preview": "We’ve added many new features and improvements, making it even easier to connect with their customers. Here's a look back at our top releases this year.",
+      "discription": "Mobile Safari web push is finally here! After years of anticipation and demand, Apple has at long last embraced modern web technology and launched support for web push on iOS and iPadOS 16.4+. Now, Apple joins Google Chrome and Android in enabling companies to communicate with their iPhone and iPad users in a mobile-first way.",
+      "time": 3
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2022/10/do-more-in-less-time-with-segment-search-tag-autocompletion-and-more.jpg",
+      "tags": ["features & updates"],
+      "title": "Do More, Faster with Segment Search, Tag Autocompletion, and More",
+      "preview": "We’ve been listening to your feedback and investing in continuous enhancements to our product. Our latest improvements promise to help you do more in less time.",
+      "discription": "Mobile Safari web push is finally here! After years of anticipation and demand, Apple has at long last embraced modern web technology and launched support for web push on iOS and iPadOS 16.4+. Now, Apple joins Google Chrome and Android in enabling companies to communicate with their iPhone and iPad users in a mobile-first way.",
+      "time": 2
+    },
+    {
+      "image": "https://onesignal.com/blog/content/images/size/w900/2023/03/12-examples-of-apps-using-live-activities-to-enrish-their-ux-1.jpg",
+      "tags": ["messaging stratagy"],
+      "title": "12 Examples of Apps Using Live Activities to Enrich Their UX",
+      "preview": "Get inspired by these real-world examples of apps that have successfully implemented iOS Live Activities.",
+      "discription": "Mobile gaming is one of the most saturated and churn-heavy industries in modern media. The old adage, “If it was so easy, everyone would be doing it” comes to mind. Well, with the growing accessibility of mobile app development and the world’s unquenchable craving for Candy Crush-levels of endless amusement…it did become easy and everyone is doing it. This is precisely why player retention will end up being the benchmark that makes or breaks your mobile game. Your mobile game may have the most addicting features with an acquisition rate that promises popularity, but it’s not enough to be the shiny new thing in app stores for a month.Below are four player retention tactics to implement in your mobile game, so you can achieve the one thing all apps ultimately strive for: longevity.After all, every good mobile game needs a game plan.",
+      "time": 1
+    }
+  ]
+}
