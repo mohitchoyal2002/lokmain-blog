@@ -11,11 +11,11 @@ const BlogCard = ({ blog }) => {
 
   return (
     <div className="lg:w-100 md:100 w-full rounded-xl shadow-blog font-nunito bg-white mb-12 cursor-pointer hover:shadow-2xl" onClick={open}>
-      <img src={blog.image} alt="" className="w-full rounded-t-xl" /> 
+      <img src={blog.image} alt="" className="w-full rounded-t-xl" />
       <div className="p-3 lg:p-6 md:p-4 flex flex-col gap-5 justify-between">
         <div className="flex flex-col gap-5">
           <div>
-            <span className="border border-tag py-1 px-2 rounded-md text-xs text-tag capitalize ">
+            <span className="border border-tag py-1 px-2 rounded-md text-xs text-tag capitalize hover:bg-tag hover:text-white hover:cursor-pointer ">
               {blog.tags.length === 2 ? blog.tags[1]: blog.tags[0]}
             </span>
           </div>

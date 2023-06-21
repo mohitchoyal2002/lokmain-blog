@@ -18,7 +18,7 @@ const BigBlogCard = ({ blog }) => {
       />
       <div className="p-3 lg:p-6 md:p-4 flex flex-col gap-5">
         <div>
-          <span className="border border-tag py-1 px-2 rounded-md text-xs text-tag capitalize ">
+          <span className="border border-tag py-1 px-2 rounded-md text-xs text-tag capitalize hover:bg-tag hover:text-white cursor-pointer ">
             {blog.tags.length === 2 ? blog.tags[1]: blog.tags[0]}
           </span>
         </div>

@@ -9,8 +9,10 @@ export default {
       colors: {
         link: "#051b2c",
         tag: "#3a3db3",
+        author: "#303293",
         btn: "#e54b4d",
-        footer:"#14143c"
+        footer:"#14143c",
+        main: "#424d57"
       },
       fontFamily: {
         nunito: "'Nunito Sans', sans-serif"
